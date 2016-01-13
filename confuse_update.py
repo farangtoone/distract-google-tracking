@@ -40,5 +40,5 @@ def get_page(url):
     res = req.decode('utf-8')
     open_web(get_all_links(res))
 
-get_page("https://www.google.com/trends")
+get_page("https://www.yahoo.com/")
 
