@@ -40,5 +40,6 @@ def get_page(url):
     res = req.decode('utf-8')
     open_web(get_all_links(res))
 
+# enter URL of choice, likely with plenty of external links
 get_page("https://www.yahoo.com/")
 
