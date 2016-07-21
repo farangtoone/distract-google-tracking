@@ -5,3 +5,5 @@ By loading yahoo or google trends, the script collects the available links of th
 - the program needs to verify the link before opening it (now it's limited to an average of 1 to 5 pages)
 - automatically starting the script when the machine is not being used (like a screensaver)
 - more diversified links to select from 
+
+Note: current update from google does not allow my script to extract links
