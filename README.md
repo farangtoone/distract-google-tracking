@@ -6,4 +6,4 @@ By loading yahoo or google trends, the script collects the available links of th
 - automatically starting the script when the machine is not being used (like a screensaver)
 - more diversified links to select from 
 
-Note: current update from google does not allow my script to extract links
+Note: google has currently changed the policies regarding web scraping so google will no longer work
