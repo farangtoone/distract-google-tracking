@@ -1,8 +1,4 @@
 # distract-google-tracking
-A python script that generates random traffic in an attempt to distract google advertising
+A python script that explores the possibilities of generating random traffic in an attempt to distract google advertising.
 
-After loading yahoo, the script collects the available links of that page. It will then randomly select one of those links and open it in a new tab. Further expansion could include:
-- automatically starting the script when the machine is not being used (like a screensaver)
-- more diversified links to select from 
-
-Note: the url can be changed, pick a website with a variety of links
+After loading yahoo's homepage as initial reference, the script collects the available links and randomly selects one of those links to open in a new tab. Due to the script picking up all links (css or js files too) and changes in Google's algorithm, the script doesn't run as smooth as before.
